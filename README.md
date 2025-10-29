@@ -32,7 +32,7 @@ Sou um profissional em transição da área de Redes e Suporte Técnico para **A
 
 | Projeto | Descrição | Ferramentas |
 |--------|-----------|-------------|
-| **Produção de Correntes** | Dashboard comparando capacidade planejada vs. produzida | Power BI, Excel |
+| **Capacity Utilization** | Dashboard comparando capacidade planejada vs. produzida | Power BI, Excel |
 
 ---
 
