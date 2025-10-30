@@ -1,8 +1,8 @@
 <h1 align="center">Guilherme de Paula Figueredo</h1>
 
 <p align="center">
-  <i>Intern - Global Engineering | Data Analytics </i><br>
-  <b>Transformando dados em decisões inteligentes</b>
+  <i> | Data Analytics | </i><br>
+  <b>Apaixonado em ciencia e analise de dados do mundo digital</b>
 </p>
 
 ---
