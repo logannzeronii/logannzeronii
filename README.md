@@ -9,7 +9,7 @@
 
 ## 🧠 Sobre Mim
 
-Sou um profissional em transição da área de Redes e Suporte Técnico para **Análise de Dados**, atualmente atuando como Estagiário na Oregon Tool. Tenho experiência com configuração de redes (Cisco, Mikrotik) e estou focado em aplicar uma mentalidade analítica em ambientes de engenharia global.
+Sou um profissional em transição da área de Redes e Suporte Técnico para **Análise de Dados**. Tenho experiência com configuração de redes (Cisco, Mikrotik) e estou focado em aplicar uma mentalidade analítica em ambientes de engenharia global.
 
 📍 Localização: Curitiba, Paraná, Brasil  
 🎯 Objetivo: Aplicar a Análise de Dados como ferramenta de transformação organizacional, conectando dados operacionais e estratégicos para gerar valor real.
